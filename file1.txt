@@ -1,1 +1,3 @@
 Now I'm writing a line into this file
+
+I'm adding another line to this file
